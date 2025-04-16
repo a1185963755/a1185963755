@@ -1,7 +1,7 @@
 # 👋 你好，我是 th！
 
-[![GitHub followers](https://img.shields.io/github/followers/你的用户名?style=social)](https://github.com/你的用户名)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.你的用户名)](https://github.com/你的用户名)
+[![GitHub followers](https://img.shields.io/github/followers/a1185963755?style=social)](https://github.com/a1185963755)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=a1185963755.a1185963755)](https://github.com/a1185963755)
 
 🔭 ​**目前正在**​  
 - 全栈学习
